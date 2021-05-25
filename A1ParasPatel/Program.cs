@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace A1ParasPatel
+namespace ConsolePlayerStatManagement
 {
     class Program
     {

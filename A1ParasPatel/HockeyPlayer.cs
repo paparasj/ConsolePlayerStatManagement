@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace A1ParasPatel
+namespace ConsolePlayerStatManagement
 {
     class HockeyPlayer : Player
     {
